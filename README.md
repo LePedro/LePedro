@@ -1,6 +1,6 @@
 # Olá, mundo! 
-Sou um Desenvolvedor, Engenheiro de Qualidade (QA) e Instrutor Técnico apaixonado por tecnologia, automação e em compartilhar conhecimento. 
-### O que eu faço:- Instrução técnica focada em programação, engenharia de software e boas práticas.- Automação de testes para garantir a qualidade do código antes do deploy.- Desenvolvimento multiplataforma e soluções eficientes.
+Sou um estudante de Engenheiro de Qualidade (QA) e Desenvolvimento de sistemas (DS).
+### O que eu faço:- Estudo Testes de software pela Aponti, Estudo Desenvolvimento de software pela ETE - Porto Digital
 ### Minha Stack Principal:
 **Qualidade & Automação:**![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 **Desenvolvimento:**![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
