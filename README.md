@@ -7,5 +7,5 @@ Sou um estudante de Engenheiro de Qualidade (QA) e Desenvolvimento de sistemas (
 **Ferramentas & Cloud:**![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ---
 ### Meus Status no GitHub:
-<!-- Estes são cards dinâmicos. Troque "SEU_USUARIO" pelo seu nickname real do GitHub --><div align="center">  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight" alt="GitHub Stats" />  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight" alt="Top Languages" /></div>
+<!-- Estes são cards dinâmicos. Troque "SEU_USUARIO" pelo seu nickname real do GitHub --><div align="center">  <img src="https://github-readme-stats.vercel.app/api?username=LePedro&show_icons=true&theme=tokyonight" alt="GitHub Stats" />  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LePedro&layout=compact&theme=tokyonight" alt="Top Languages" /></div>
 --- **Como me encontrar:** [www.linkedin.com/in/pedrosaleslima] | [ph.sales.ph@gmail.com]
